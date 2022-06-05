@@ -1,7 +1,7 @@
 # User-Management-App
 This is a code repository for a MERN AUTH application. A user authentication application using the MERN Stack + Redux.
 
-Include:
+Includes:
 
 Register, login with validation form.
 
